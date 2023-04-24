@@ -225,6 +225,8 @@ input[type="submit"]:hover {
 
 ![Form](img/form.PNG)
 
-- Dengan menggunakan konsep modularisasi dan class library untuk form dan database connection, kode program menjadi lebih terstruktur, mudah dipelihara, dan mudah dikembangkan di masa depan. Jika ada perubahan pada form atau database connection, kita hanya perlu mengubah kode pada class library-nya tanpa harus mengubah kode pada file utama.
+![Hasil](img/hasil.PNG)
+
+- Dengan menggunakan konsep "modularisasi & class library" untuk form & database connection, kode program menjadi lebih terstruktur, mudah dipelihara, & mudah dikembangkan di masa depan. Jika ada perubahan pada form atau database connection, kita hanya perlu mengubah kode pada class library-nya tanpa harus mengubah kode pada file utama.
 
 # Terima Kasih!!!
